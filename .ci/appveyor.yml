@@ -161,3 +161,13 @@ on_finish:
         Write-Host "            =====  No Files to Upload  =====            " -ForegroundColor Red
         Write-Host "--------------------------------------------------------"
       }
+You need to set up GitHub Copilot and be signed in to use Chat.
+gitattributes
+posixBuildFolder
+
+
+
+
+
+
+
